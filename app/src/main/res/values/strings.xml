@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="text1">Welcome to my first Application</string>
+    <string name="text2">This is Second Layout</string>
+    <string name="text3">This is Third Layout</string>
+    <string name="text4">This is fourth Layout</string>
+
+</resources>
